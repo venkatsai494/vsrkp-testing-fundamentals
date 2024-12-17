@@ -1,4 +1,4 @@
-Here’s a detailed comparison of a **Test Plan** and a **Test Strategy** document:
+Here’s a detailed comparison of a **[Test Plan](TEST_PLAN.MD)** and a **Test Strategy** document:
 
 | **Aspect**             | **Test Plan**                               | **Test Strategy**                             |
 |------------------------|---------------------------------------------|-----------------------------------------------|
