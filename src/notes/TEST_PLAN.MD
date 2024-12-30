@@ -62,8 +62,8 @@ This document outlines the test plan for the "XYZ E-commerce Website" project, w
 
 #### **7\. Resources**
 
-*   Test Manager: John Doe
-*   QA Engineers: 3 Members (Alice, Bob, Charlie)
+*   Test Manager: Venkat Sai Parpelli
+*   QA Engineers: 3 Members (Aman, Bhaskar, Chatur)
 
 * * *
 
